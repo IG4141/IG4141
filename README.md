@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Ivo Giuliano Cappetto.
 
 ## 👨‍💻 Sobre mí
 
@@ -35,8 +35,7 @@ En este repositorio encontrarás proyectos y ejercicios prácticos donde aplico:
 
 Estoy abierto a proyectos y colaboraciones. Puedes contactarme en:
 
-- LinkedIn: [tu perfil LinkedIn]
-- Email: [tu correo electrónico]
-
+- LinkedIn: https://www.linkedin.com/in/ivo-giuliano-cappetto-34849336a
+- Email: ivogiuliano@hotmail.com
 --
 
